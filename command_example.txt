@@ -1,0 +1,1 @@
+dotnet run --project PdfUtility.csproj -- Unpack hoge.pdf unpacks
